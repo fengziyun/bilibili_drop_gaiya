@@ -1,0 +1,214 @@
+[
+    {
+        "type": 0,
+        "filter": "百合",
+        "opened": true,
+        "id": 2214095
+    },
+    {
+        "type": 0,
+        "filter": "泪目",
+        "opened": true,
+        "id": 5233852
+    },
+    {
+        "type": 0,
+        "filter": "演",
+        "opened": true,
+        "id": 5660014
+    },
+    {
+        "type": 0,
+        "filter": "道具",
+        "opened": true,
+        "id": 5660015
+    },
+    {
+        "type": 0,
+        "filter": "可以呼吸",
+        "opened": true,
+        "id": 8897732
+    },
+    {
+        "type": 0,
+        "filter": "正常呼吸",
+        "opened": true,
+        "id": 9062547
+    },
+        {
+        "type": 0,
+        "filter": "正常呼吸",
+        "opened": true,
+        "id": 9062547
+    },
+    {
+        "type": 0,
+        "filter": "三级防护启动",
+        "opened": true
+    },
+    {
+        "type": 0,
+        "filter": "杨の空瓶",
+        "opened": true
+    },
+    {
+        "type": 0,
+        "filter": "空瓶拦截",
+        "opened": true
+    },
+    {
+        "type": 0,
+        "filter": "空屏拦截",
+        "opened": true
+    },
+    {
+        "type": 1,
+        "filter": "^.*阿+.*古+.*茹+.*$",
+        "opened": true,
+        "id": 9761810
+    },
+    {
+        "type": 1,
+        "filter": "^.*ZE+.*TA+.*$",
+        "opened": true,
+        "id": 9761811
+    },
+    {
+        "type": 1,
+        "filter": "^.*泽+.*塔+.*$",
+        "opened": true,
+        "id": 9761812
+    },
+    {
+        "type": 1,
+        "filter": "^.*泰+.*罗+.*$",
+        "opened": true,
+        "id": 9761813
+    },
+    {
+        "type": 1,
+        "filter": "^.*D+.*\\++.*$",
+        "opened": true,
+        "id": 9761815
+    },
+    {
+        "type": 1,
+        "filter": "^.*戴+.*卡+.*$",
+        "opened": true,
+        "id": 9761817
+    },
+    {
+        "type": 1,
+        "filter": "^.*贝+.*利+.*亚+.*$",
+        "opened": true,
+        "id": 9761818
+    },
+    {
+        "type": 1,
+        "filter": "^.*ge+.*ed+.*$",
+        "opened": true,
+        "id": 9761859
+    },
+    {
+        "type": 1,
+        "filter": "^.*捷+.*德+.*$",
+        "opened": true,
+        "id": 9761860
+    },
+    {
+        "type": 1,
+        "filter": "^.*盖+.*亚+.*$",
+        "opened": true,
+        "id": 9761861
+    },
+    {
+        "type": 1,
+        "filter": "^.*迪+.*迦+.*$",
+        "opened": true,
+        "id": 9761862
+    },
+    {
+        "type": 1,
+        "filter": "^.*德+.*凯+.*$",
+        "opened": true,
+        "id": 9761863
+    },
+    {
+        "type": 1,
+        "filter": "^.*欧+.*布+.*$",
+        "opened": true,
+        "id": 9761864
+    },
+    {
+        "type": 1,
+        "filter": "^.*雷+.*欧+.*$",
+        "opened": true,
+        "id": 9761865
+    },
+    {
+        "type": 1,
+        "filter": "^.*艾+.*克+.*斯+.*$",
+        "opened": true,
+        "id": 9761866
+    },
+    {
+        "type": 1,
+        "filter": "^.*赛+.*罗+.*$",
+        "opened": true,
+        "id": 9762341
+    },
+    {
+        "type": 1,
+        "filter": "^.*凯+.*亚+.*$",
+        "opened": true,
+        "id": 9762343
+    },
+    {
+        "type": 1,
+        "filter": "^.*迪+.*加+.*$",
+        "opened": true,
+        "id": 9762345
+    },
+    {
+        "type": 1,
+        "filter": "^.*盖+.*德+.*$",
+        "opened": true,
+        "id": 9762348
+    },
+    {
+        "type": 1,
+        "filter": "^.*gin+.*ga+.*$",
+        "opened": true,
+        "id": 9762640
+    },
+    {
+        "type": 1,
+        "filter": "^.*防+.*空+.*屏+.*$",
+        "opened": true
+    },
+    {
+        "type": 1,
+        "filter": "^.*防+.*空+.*瓶+.*$",
+        "opened": true
+    },
+    {
+        "type": 1,
+        "filter": "^.*空+.*瓶+.*拦+.*截+.*$",
+        "opened": true
+    },
+    {
+        "type": 1,
+        "filter": "^.*空+.*屏+.*拦+.*截+.*$",
+        "opened": true
+    },
+    {
+        "type": 1,
+        "filter": "^.*的+.*空+.*屏+.*$",
+        "opened": true
+    },
+    {
+        "type": 1,
+        "filter": "^.*の+.*空+.*屏+.*$",
+        "opened": true
+    }
+]
