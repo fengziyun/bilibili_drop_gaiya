@@ -56,7 +56,8 @@
 
 >  **手机端只支持同步和手动添加，不支持 json 导入**，HD版操作与手机端操作一致。
 
-<img src="assets/image-20240827102158982.png" width="300px"></img><img src="assets/image-20240827102420891.png" width="300px"></img><img src="assets/Screenshot_2024-08-27-10-19-23-477_tv.danmaku.bili-edit.jpg" width="300px"></img>
+<img src="assets/image-20240827102158982.png" width="300px"></img><img src="assets/image-20240827102420891.png" width="300px"></img>
+<img src="assets/Screenshot_2024-08-27-10-19-23-477_tv.danmaku.bili-edit.jpg" width="300px"></img>
 
 1. 随便进入一个视频，然后进入全屏；
 2. 点击 弹幕输入框左侧第一个带齿轮的弹幕图标；
